@@ -1,4 +1,4 @@
-package Main;
+package main;
 
 import GUI.Frame;
 import Rasporedjivac_zadataka.TaskScheduler;

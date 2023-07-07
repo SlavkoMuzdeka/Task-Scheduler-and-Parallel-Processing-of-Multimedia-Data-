@@ -1,4 +1,4 @@
-package PixelSorting;
+package algorithms;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
